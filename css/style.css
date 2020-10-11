@@ -2,15 +2,17 @@ body {
     margin: 0;
     padding: 0;
     font-family: "Lucida Console", Monaco, monospace;
+    position: center;
 
 }
 
 nav ul {
     list-style: none;
-    background-color: silver;
+    background-color: lightskyblue;
     text-align: center;
     padding: 0;
     margin: 0;
+    position: center;
 }
 
 nav li {
@@ -24,7 +26,7 @@ nav li {
 
 nav a {
     text-decoration: none;
-    color: dimgray;
+    color: whitesmoke;
     display: block;
 
 }
