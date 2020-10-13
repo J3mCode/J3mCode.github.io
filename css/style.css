@@ -5,7 +5,7 @@ body {
     padding: 0;
     font-family: Arial;
     text-align: center;
-    overflow: auto;
+    overflow-y: auto;
 }
 
 /* Center website */
