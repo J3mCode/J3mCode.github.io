@@ -3,15 +3,8 @@ body {
     margin: 0;
     padding: 0;
     font-family: Arial;
-    position: center;
-
 }
 
-/*allowig sections to float and size fit to the area they are in*/
-section {
-  display: -webkit-flex;
-  display: flex;
-}
 
 /*header formatting*/
 header.header {
