@@ -1,59 +1,57 @@
 /*basic formatting for text on the website*/
 body {
-
-    margin: 0;
-    padding: 0;
-    font-family: Arial;
-    text-align: center;
-    overflow-y: auto;
+  margin: 0;
+  padding: 0;
+  font-family: Arial;
+  text-align: center;
+  overflow-y: auto;
 }
 
 /* Center website */
 .main {
   max-width: 90%;
   margin: auto;
+  position: center;
 }
-
 
 /*header formatting*/
 header.header {
-    list-style: none;
-    background-color: dodgerblue;
-    text-align: center;
-    padding: 0;
-    margin: 0;
-    position: center;
+  list-style: none;
+  background-color: dodgerblue;
+  text-align: center;
+  padding: 0;
+  margin: 0;
+  position: center;
 }
 
-/*any listed links formatting*/
+ul.cir {
+  list-style-type: circle;
+}
+
+/*Navigation Bar listed links formatting*/
 nav li {
-    font-size: 1.2em;
-    line-height: 40px;
-    height: 40px;
-    display: inline-block;
-    margin: 2.5%;
-
+  font-size: 1.2em;
+  line-height: 40px;
+  height: 40px;
+  display: inline-block;
+  margin: 2.5%;
 }
 
-/*any listed links formatting*/
+/*Nav Bar listed links formatting*/
 nav a {
-    text-decoration: none;
-    color: whitesmoke;
-    display: block;
-
+  text-decoration: none;
+  color: whitesmoke;
+  display: block;
 }
 
-/*any listed links formatting for hovering*/
+/*Nav Bar listed links formatting for hovering*/
 nav a:hover {
-    color: silver;
-    
+  color: silver;
 }
-
-
 
 /*centering and formatting for the footer*/
 .abs-center-x {
-    position: absolute;
-    left: 50%;
-    transform: translateX(-50%);
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%);
 }
