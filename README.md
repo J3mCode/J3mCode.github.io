@@ -41,3 +41,44 @@ By utilizing a timeline, A brief history of goals could accompant the resume pag
  
    ![ResumePage](wireframe/portfolio.png)
   
+  
+  
+ Features
+--------------------------
+Existing features:
+1. header navigation links between pages.
+2. scrollbars to accomadate page sizes
+3. 
+
+
+
+
+
+Technologies Used
+--------------------------
+
+
+
+
+
+
+Testing
+--------------------------
+
+
+
+
+
+Deployment
+--------------------------
+
+
+
+
+
+
+Credits
+--------------------------
+
+
+  
