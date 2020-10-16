@@ -27,5 +27,12 @@ UX
   
   ![HomePage](wireframe/home.png)
 
+
+A secondary page with higher importance was presenting a resume page. This was placed as the second page for consideration that this may be a page
+most employers would navigate to with high priority and within a short time of accessing the site. It was always an idea to have a pdf downloadable
+link on this page, but by utilizing a iframe, there could be a viewable window for my resume as well as the download feature. 
+By utilizing a timeline, A brief history of goals could accompant the resume page for brief progress for those users which did not want to look through the pdf.
+
+  ![ResumePage](wireframe/resume.png)
   
   
