@@ -25,6 +25,19 @@ UX
   The original Idea was to create a left to right structure. Upon review, the elements seemed to be in competition so to better balance the page,
   all elements were centered and made more cohesive.
   
+  ![HomePage](wireframe/home.png)
+
+
+A secondary page with higher importance was presenting a resume page. This was placed as the second page for consideration that this may be a page
+most employers would navigate to with high priority and within a short time of accessing the site. It was always an idea to have a pdf downloadable
+link on this page, but by utilizing a iframe, there could be a viewable window for my resume as well as the download feature. 
+By utilizing a timeline, A brief history of goals could accompant the resume page for brief progress for those users which did not want to look through the pdf.
+
+  ![ResumePage](wireframe/resume.png)
   
-  
+ The final page is a portfolio page to include previous projects and current working projects.
+ I wanted a simple format with basic information so that if employers were curios to know more they could always reach out.
+ Showing the page links to working projects and praticing links will show my current progress and skill level within certain challeges.
+ 
+   ![ResumePage](wireframe/portfolio.png)
   
