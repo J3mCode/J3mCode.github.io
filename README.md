@@ -25,6 +25,7 @@ UX
   The original Idea was to create a left to right structure. Upon review, the elements seemed to be in competition so to better balance the page,
   all elements were centered and made more cohesive.
   
-  
+  ![HomePage](wireframe/home.png)
+
   
   
