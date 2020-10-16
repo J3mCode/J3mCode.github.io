@@ -35,4 +35,9 @@ By utilizing a timeline, A brief history of goals could accompant the resume pag
 
   ![ResumePage](wireframe/resume.png)
   
+ The final page is a portfolio page to include previous projects and current working projects.
+ I wanted a simple format with basic information so that if employers were curios to know more they could always reach out.
+ Showing the page links to working projects and praticing links will show my current progress and skill level within certain challeges.
+ 
+   ![ResumePage](portfolio/resume.png)
   
