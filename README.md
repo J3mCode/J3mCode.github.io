@@ -22,5 +22,9 @@ UX
   Structure-
   The structure was implemented through careful considerations to the elements that would be included in the site.
   The landing page was aimed to portray a brief intro to which users could get basic highlighted background and skills.
+  The original Idea was to create a left to right structure. Upon review, the elements seemed to be in competition so to better balance the page,
+  all elements were centered and made more cohesive.
+  
+  
   
   
