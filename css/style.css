@@ -14,9 +14,20 @@ body {
   position: center;
 }
 
-.img {
-  width: 400px;
-  height: 200px;
+/*images formatting sourced from Corlangs.com: http://www.corelangs.com/css/box/image-shadow.html*/
+
+.img1 {
+  border:2px solid #fff;
+  background: url(img/duck.png) no-repeat;
+  -moz-box-shadow: 0px 6px 5px #ccc;
+  -webkit-box-shadow: 0px 6px 5px #ccc;
+  box-shadow: 0px 6px 5px #ccc;
+  -moz-border-radius:190px;
+  -webkit-border-radius:190px;
+  border-radius:190px;
+}
+
+.img2 {
   border:2px solid #fff;
   background: url(img/tiger.png) no-repeat;
   -moz-box-shadow: 10px 10px 5px #ccc;
