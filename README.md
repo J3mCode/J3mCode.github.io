@@ -69,7 +69,25 @@ Technologies Used
 Testing
 --------------------------
 
+Home Page:
+- Go to the "Home" page by pressing Nav link
+- Try scolling up and down to review the data.
+- Try pressing the footer links to ensure they lead to the proper forms.
 
+Resume Page:
+- Go to the "Resume" page by pressing Nav link
+- Try scolling up and down to review the data.
+- Try scrolling up and down within the iframe.
+- try downloading the pdf in the iframe by pressing the download button.
+- try printing the pdf in the iframe by pressing the print button.
+- Try pressing the footer links to ensure they lead to the proper forms.
+
+Portfolio Page:
+- Go to the "Portfolio" page by pressing Nav link
+- Try scolling up and down to review the data.
+- Try pressing play/start/stop/next/back on the uploaded powerpoints.
+- try pressing the link buttons in the additional work section to see if they navigate to new pages.
+- Try pressing the footer links to ensure they lead to the proper forms.
 
 
 
