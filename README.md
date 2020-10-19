@@ -68,6 +68,8 @@ Technologies Used
 
 Testing
 --------------------------
+Within different browsers, such as the switch between mobile and desktop, the usual desktop elements are centered withing the mobile page,
+Maintaining the size of the elements while also making each pages contents pushed into a one scoll page.
 
 Home Page:
 - Go to the "Home" page by pressing Nav link
@@ -89,18 +91,28 @@ Portfolio Page:
 - try pressing the link buttons in the additional work section to see if they navigate to new pages.
 - Try pressing the footer links to ensure they lead to the proper forms.
 
+Some of the main user errors were the iframer viewer connection for the resume page.
+For a while there was a connection error but this was resolved by usingin a different soorce url to host the pdf file.
+An additional common error was the elements positioning. Occasionally the margins would push elements to the left or right of the screen
+By centering all elements, and maintaining a certain size boundary, the elements could remain in the center even while changing browser sizes.
+
 
 
 Deployment
 --------------------------
 
-
-
-
+To deploy my webpage, I used Github platform and the Gitpod workspaces. Through workspaces I would add files such as images or pdfs to use on the website and could edit individual files. From workspaces I drafted html files for each page and css pages for the individuals stylings. The repositorie which held all the pages could generate a wedsite link which could be pressed to compile all the files and generate my live webpage.
 
 
 Credits
 --------------------------
+Content
+- The text for section Y was copied from the Wikipedia article Z
 
+Media
+- The photos used in this site were obtained from ...
+
+Acknowledgements
+- I received inspiration for this project from X
 
   
