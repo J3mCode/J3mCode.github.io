@@ -61,9 +61,9 @@ Features Left to Implement:
 
 Technologies Used
 --------------------------
-w3schools.com - helped with basic concepts for Html and Css coding                                 https://www.w3schools.com/
-BootStrap - Provides general templates for more advanced css formatting, headers footer styles.    https://getbootstrap.com/
-Github - the Website platform, generates a live webpage and repositories for files.                https://github.com/
+- w3schools.com - helped with basic concepts for Html and Css coding                                 https://www.w3schools.com/
+- BootStrap - Provides general templates for more advanced css formatting, headers footer styles.    https://getbootstrap.com/
+- Github - the Website platform, generates a live webpage and repositories for files.                https://github.com/
 
 
 Testing
