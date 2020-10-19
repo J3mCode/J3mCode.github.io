@@ -47,19 +47,23 @@ By utilizing a timeline, A brief history of goals could accompant the resume pag
 --------------------------
 Existing features:
 1. header navigation links between pages.
-2. scrollbars to accomadate page sizes
-3. 
+2. scrollbars to accomidate page sizes
+3. Timeline- created for general easy access view of current goals and previous goals for users
+4. Iframe for resume- created as a simple platform to hold a downloadable version of the pdf resume file.
+Easy access for users to doawnload for job submission or recommendation.
 
 
+Features Left to Implement:
+-more interactive timeline .
+-additional portfolio links and perhaps image buttons
 
 
 
 Technologies Used
 --------------------------
-
-
-
-
+w3schools.com - helped with basic concepts for Html and Css coding                                 https://www.w3schools.com/
+BootStrap - Provides general templates for more advanced css formatting, headers footer styles.    https://getbootstrap.com/
+Github - the Website platform, generates a live webpage and repositories for files.                https://github.com/
 
 
 Testing
