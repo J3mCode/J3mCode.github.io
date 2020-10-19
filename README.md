@@ -107,12 +107,18 @@ To deploy my webpage, I used Github platform and the Gitpod workspaces. Through 
 Credits
 --------------------------
 Content
-- The text for section Y was copied from the Wikipedia article Z
+- Footer sourced from Bootstrap styles: https://www.codeply.com/go/kTGlK9Axdk
+- Styleing altered but sourced timeline layout from: https://www.w3schools.com/howto/howto_css_portfolio_gallery.asp
+- images formatting sourced from Corlangs.com: http://www.corelangs.com/css/box/image-shadow.html
+- Styleing altered but sourced timeline layout from: https://www.w3schools.com/howto/howto_css_timeline.asp
 
 Media
-- The photos used in this site were obtained from ...
+- The photos used in this site were obtained from personal picture taken by Jacqueline Marquex
 
 Acknowledgements
-- I received inspiration for this project from X
+- I received inspiration for this project from:
+- https://www.claudiatenhoope.com/nl/
+- https://harrisonjansma.com/
+- http://varianceexplained.org/r/trump-tweets/
 
   
