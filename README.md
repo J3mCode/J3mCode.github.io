@@ -91,11 +91,22 @@ Portfolio Page:
 - try pressing the link buttons in the additional work section to see if they navigate to new pages.
 - Try pressing the footer links to ensure they lead to the proper forms.
 
+BUGS
+
 Some of the main user errors were the iframer viewer connection for the resume page.
 For a while there was a connection error but this was resolved by usingin a different soorce url to host the pdf file.
-An additional common error was the elements positioning. Occasionally the margins would push elements to the left or right of the screen
-By centering all elements, and maintaining a certain size boundary, the elements could remain in the center even while changing browser sizes.
 
+An additional common error was the elements positioning. Occasionally the margins would push elements to the left or right of the screen
+This also made the translatability between desktop and mobile versions alter the image positions.
+Images would be fixed to a certain size and go past the margin of certain mobile devices.
+
+![HomePage](wireframe/original%20page.png)
+
+By centering all elements, and maintaining a certain size boundary, the elements could remain in the center even while changing browser sizes.
+To also fix the images error, the width element was changed from a fixed value to a responsive value that would keep the image a certain size,
+and placement, but also editits size when changing to a different mobile device
+
+![HomePage](wireframe/margins%20and%20footer.png)
 
 
 Deployment
