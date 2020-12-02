@@ -70,19 +70,33 @@ Testing
 --------------------------
 Within different browsers, such as the switch between mobile and desktop, the usual desktop elements are centered withing the mobile page,
 Maintaining the size of the elements while also making each pages contents pushed into a one scoll page.
+Considering a user, such as a potential recruiter, to view the page, the basic testing and navigation has been created to be reliable and
+straightforward in structure and content.
 
+A user can navigate the landing home page by:
 Home Page:
 - Go to the "Home" page by pressing Nav link
 - Try scolling up and down to review the data.
 - Try pressing the footer links to ensure they lead to the proper forms.
 
+![HomePage](wireframe/home_page.png)
+
+![HomePage](wireframe/footerlinks.png)
+
+A user can navigate to the resume page which contains the resume document by:
 Resume Page:
 - Go to the "Resume" page by pressing Nav link
+
+![HomePage](wireframe/tofpage.png)
+
 - Try scolling up and down to review the data.
 - Try scrolling up and down within the iframe.
 - try downloading the pdf in the iframe by pressing the download button.
 - try printing the pdf in the iframe by pressing the print button.
 - Try pressing the footer links to ensure they lead to the proper forms.
+
+![HomePage](wireframe/resumepage.png)
+![HomePage](wireframe/pdfprint.png)
 
 Portfolio Page:
 - Go to the "Portfolio" page by pressing Nav link
@@ -112,7 +126,24 @@ and placement, but also editits size when changing to a different mobile device
 Deployment
 --------------------------
 
-To deploy my webpage, I used Github platform and the Gitpod workspaces. Through workspaces I would add files such as images or pdfs to use on the website and could edit individual files. From workspaces I drafted html files for each page and css pages for the individuals stylings. The repositorie which held all the pages could generate a wedsite link which could be pressed to compile all the files and generate my live webpage.
+To deploy my webpage, I used Github platform and the Gitpod workspaces. Through workspaces I would add files such as images or pdfs to use on
+ the website and could edit individual files.
+To access gitpod first a developer would have to visit my page repository at: https://github.com/J3mCode/J3mCode.github.io
+The repository has a button on the top of the commits which links to Gitpod workspaces.
+
+ ![HomePage](wireframe/github.png)
+
+Once gitpod workspaces loads, a current workspace will be open with links to each uploaded file to the left.
+ Images contained from the main page and additional website pages are located in the CSS > images file. All of these images are deployed within
+  the live site. All other images contained for the readme were stored in the wireframe file.
+
+ ![HomePage](wireframe/siteimages.png)
+
+  From workspaces I drafted html files for each website page (home, resume and portfolio) and additionally created css pages for the individuals stylings.
+  Each page has unique stylings for the individual needs of each page.
+ 
+  ![HomePage](wireframe/webpages.png)
+
 
 
 Credits
@@ -124,7 +155,7 @@ Content
 - Styleing altered but sourced timeline layout from: https://www.w3schools.com/howto/howto_css_timeline.asp
 
 Media
-- The photos used in this site were obtained from personal picture taken by Jacqueline Marquex
+- The photos used in this site were obtained from personal picture taken by Jacqueline Marquez
 
 Acknowledgements
 - I received inspiration for this project from:
