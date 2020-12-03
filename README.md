@@ -24,6 +24,12 @@ UX
   The landing page was aimed to portray a brief intro to which users could get basic highlighted background and skills.
   The original Idea was to create a left to right structure. Upon review, the elements seemed to be in competition so to better balance the page,
   all elements were centered and made more cohesive.
+
+  User Stories:
+  1. as a visitor to this website, I would wish to navigate the pages easily to have information available.
+  2. as a vistor to this site, I want to get a an overview of the website creater's previous work and experience to deem applicable to my own work.
+  3. As a potential recruiter, I  want to access pdf information to bring forward to my peers.
+  4. As a potential recruiter, I want the site to be simple with consice information on previous experience to rely to team members.
   
   ![HomePage](wireframe/home.png)
 
