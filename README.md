@@ -114,12 +114,15 @@ Navigation Top of Page
 
 Resume page
 ![HomePage](wireframe/resumepage.png)
+
 PDF Viewer
+
 ![HomePage](wireframe/pdfprint.png)
 
 A user can navigate to the portfolio page by:
 
 ![HomePage](wireframe/portfolioPage.png)
+
 Portfolio Page:
 - Go to the "Portfolio" page by pressing Nav link
 - Try scolling up and down to review the data.
