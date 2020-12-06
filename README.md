@@ -87,6 +87,11 @@ Considering a user, such as a potential recruiter, to view the page, the basic t
 straightforward in structure and content.
 
 A user can navigate the landing home page by:
+
+Visiting the Website:
+
+https://j3mcode.github.io/
+
 Home Page:
 - Go to the "Home" page by pressing Nav link
 - Try scolling up and down to review the data.
@@ -99,6 +104,7 @@ Footer Links
 ![HomePage](wireframe/footerlinks.png)
 
 A user can navigate to the resume page which contains the resume document by:
+
 Resume Page:
 
 - Go to the "Resume" page by pressing Nav link
@@ -133,7 +139,8 @@ Portfolio Page:
 BUGS
 
 Some of the main user errors were the iframer viewer connection for the resume page.
-For a while there was a connection error but this was resolved by usingin a different soorce url to host the pdf file.
+For a while there was a connection error but this was resolved by using a different source url to host the pdf file.
+The new viewer sources the pdf directly from uploaded files instead of a hosting site.
 
 An additional common error was the elements positioning. Occasionally the margins would push elements to the left or right of the screen
 This also made the translatability between desktop and mobile versions alter the image positions.
@@ -143,12 +150,27 @@ Normal view of Margins
 ![HomePage](wireframe/original%20page.png)
 
 By centering all elements, and maintaining a certain size boundary, the elements could remain in the center even while changing browser sizes.
-To also fix the images error, the width element was changed from a fixed value to a responsive value that would keep the image a certain size,
-and placement, but also editits size when changing to a different mobile device
+To also fix the images error, the width element was changed from a fixed value to a responsive value, from pixels to width = 100% that would keep the image a certain size,
+and placement, but also edit its size when changing to a different mobile device
 
 Margins Error on Smaller device
 
 ![HomePage](wireframe/margins%20and%20footer.png)
+
+Tested devices:
+Each device setting was tested by moving the size of the screen responsively when inspecting the page element.
+
+- Samsung Galaxy S8 – Android 8.0
+- Samsung Galaxy S5 - Android 8.0
+- iPhone 8 – iOS 11.4
+- HP Laptop 15-bs0xx – Windows 10
+
+Desktop Screen Test
+![HomePage](wireframe/screentest1.png)
+
+iPhone8 Screen Test
+![HomePage](wireframe/iphone8.png)
+
 
 
 Deployment
@@ -192,6 +214,8 @@ for practice in my work. The css styleing was used to be able to organize each o
 
 Portfolio.CSS
   ![HomePage](wireframe/portfolioCss.png)
+
+
 
 Credits
 --------------------------
