@@ -104,7 +104,6 @@ Resume Page:
 - Go to the "Resume" page by pressing Nav link
 
 Navigation Top of Page
-
 ![HomePage](wireframe/tofpage.png)
 
 - Try scolling up and down to review the data.
@@ -137,11 +136,14 @@ An additional common error was the elements positioning. Occasionally the margin
 This also made the translatability between desktop and mobile versions alter the image positions.
 Images would be fixed to a certain size and go past the margin of certain mobile devices.
 
+Normal view of Margins
 ![HomePage](wireframe/original%20page.png)
 
 By centering all elements, and maintaining a certain size boundary, the elements could remain in the center even while changing browser sizes.
 To also fix the images error, the width element was changed from a fixed value to a responsive value that would keep the image a certain size,
 and placement, but also editits size when changing to a different mobile device
+
+Margins Error on Smaller device
 
 ![HomePage](wireframe/margins%20and%20footer.png)
 
@@ -154,20 +156,39 @@ To deploy my webpage, I used Github platform and the Gitpod workspaces. Through 
 To access gitpod first a developer would have to visit my page repository at: https://github.com/J3mCode/J3mCode.github.io
 The repository has a button on the top of the commits which links to Gitpod workspaces.
 
+Main repository
  ![HomePage](wireframe/github.png)
 
 Once gitpod workspaces loads, a current workspace will be open with links to each uploaded file to the left.
  Images contained from the main page and additional website pages are located in the CSS > images file. All of these images are deployed within
   the live site. All other images contained for the readme were stored in the wireframe file.
 
+Files Within Gitpod
+
  ![HomePage](wireframe/siteimages.png)
 
   From workspaces I drafted html files for each website page (home, resume and portfolio) and additionally created css pages for the individuals stylings.
   Each page has unique stylings for the individual needs of each page.
  
+ HTML Files
+
   ![HomePage](wireframe/webpages.png)
 
+The Code for each of the web pages are help within distint HTML files. All which refer to the style.css file for CSS stylings.
+Specific to the resume page is an additional CSS file called timeline.css which has the CSS styling code for the timeline on the
+resume page. It is unique to provide an interesting visual function to the page as well as basic infomation to supliment goals to
+users/recruiting visitors to the site.
 
+Timeline.CSS
+  ![HomePage](wireframe/timeline.png)
+
+An Additional CSS styling is for the portfolio page. In portfolio.css the portfolio pages style is unique to provide previews of 
+projects worked on and some information about each project. This allows visitors to the page to get a brief view of the type of work
+I have in my experience as well as some preview of what future work may look like. Users of the site can also see links to sites I use
+for practice in my work. The css styleing was used to be able to organize each of these projects in a ordered fashion but also consice.
+
+Portfolio.CSS
+  ![HomePage](wireframe/portfolioCss.png)
 
 Credits
 --------------------------
