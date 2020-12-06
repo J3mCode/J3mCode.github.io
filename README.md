@@ -31,22 +31,27 @@ UX
   3. As a potential recruiter, I  want to access pdf information to bring forward to my peers.
   4. As a potential recruiter, I want the site to be simple with consice information on previous experience to rely to team members.
   
+Website Mockups
+------------------------
+
+Wireframe 1 Landing Page
   ![HomePage](wireframe/home.png)
 
+
+Wireframe 2 Resume Page
+  ![ResumePage](wireframe/resume.png)
 
 A secondary page with higher importance was presenting a resume page. This was placed as the second page for consideration that this may be a page
 most employers would navigate to with high priority and within a short time of accessing the site. It was always an idea to have a pdf downloadable
 link on this page, but by utilizing a iframe, there could be a viewable window for my resume as well as the download feature. 
 By utilizing a timeline, A brief history of goals could accompant the resume page for brief progress for those users which did not want to look through the pdf.
 
-  ![ResumePage](wireframe/resume.png)
-  
+Wireframe 3 Porfolio Page
+   ![ResumePage](wireframe/portfolio.png)
+
  The final page is a portfolio page to include previous projects and current working projects.
  I wanted a simple format with basic information so that if employers were curios to know more they could always reach out.
  Showing the page links to working projects and praticing links will show my current progress and skill level within certain challeges.
- 
-   ![ResumePage](wireframe/portfolio.png)
-  
   
   
  Features
@@ -101,9 +106,14 @@ Resume Page:
 - try printing the pdf in the iframe by pressing the print button.
 - Try pressing the footer links to ensure they lead to the proper forms.
 
+Resume page
 ![HomePage](wireframe/resumepage.png)
+PDF Viewer
 ![HomePage](wireframe/pdfprint.png)
 
+A user can navigate to the portfolio page by:
+
+![HomePage](wireframe/portfolioPage.png)
 Portfolio Page:
 - Go to the "Portfolio" page by pressing Nav link
 - Try scolling up and down to review the data.
