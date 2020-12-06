@@ -37,6 +37,8 @@ Website Mockups
 Wireframe 1 Landing Page
   ![HomePage](wireframe/home.png)
 
+The primary landing page for the site. Here is a basic bio of my history and experience. This was create to introduce users that visit the page into 
+basic knowledge and make a good place for additional links to be selected to the resume and portfolio pages.
 
 Wireframe 2 Resume Page
   ![ResumePage](wireframe/resume.png)
@@ -90,13 +92,18 @@ Home Page:
 - Try scolling up and down to review the data.
 - Try pressing the footer links to ensure they lead to the proper forms.
 
+Home Page
 ![HomePage](wireframe/home_page.png)
 
+Footer Links
 ![HomePage](wireframe/footerlinks.png)
 
 A user can navigate to the resume page which contains the resume document by:
 Resume Page:
+
 - Go to the "Resume" page by pressing Nav link
+
+Navigation Top of Page
 
 ![HomePage](wireframe/tofpage.png)
 
