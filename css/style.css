@@ -82,7 +82,7 @@ nav a:hover {
   transform: translateX(-50%);
 }
 
-/**/
+/*Classes to help maintain image sizes between different screen sizes*/
 iframe {
     width: 100%;
 }
@@ -99,4 +99,10 @@ footer {
 
 footer a {
     color: white;
+}
+
+/*class to open button links in a new window.*/
+window.open {
+  'https://google.com'
+  '_blank'
 }
