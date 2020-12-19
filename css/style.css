@@ -104,5 +104,5 @@ footer a {
 /*class to open button links in a new window.*/
 window.open {
   'https://google.com'
-  '_blank'
+  '_blank';
 }
